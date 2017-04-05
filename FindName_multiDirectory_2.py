@@ -50,9 +50,9 @@ style.use('fivethirtyeight')
 
  
 
-dirname="C:/BigData/PII_Finder/NOREEN/SFO/pshaw"
+dirname="C:/BigData/PII_Finder/xxxx/SFO/xxxx"
 
-output_file="C:/BigData/PII_Finder/NOREEN/SFO/out/sfcres101p_pshaw.csv"
+output_file="C:/BigData/PII_Finder/xxxx/SFO/out/xxxx.csv"
 
  
 
