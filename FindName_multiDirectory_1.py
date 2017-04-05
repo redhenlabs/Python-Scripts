@@ -50,7 +50,7 @@ style.use('fivethirtyeight')
 
  
 
-dirname="C:/BigData/PII_Finder/xxxx/SFO/dlewin"
+dirname="C:/BigData/PII_Finder/xxxx/SFO/xxxx"
 
 output_file="C:/BigData/PII_Finder/xxxx/SFO/out/xxxx.csv"
 
